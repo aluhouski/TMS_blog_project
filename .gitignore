@@ -1,0 +1,4 @@
+blog/
+venv/
+__pycache__/
+*.sqlite3
